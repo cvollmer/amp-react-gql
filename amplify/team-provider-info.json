@@ -14,6 +14,9 @@
     "categories": {
       "auth": {
         "ampreactgqlaa8a2cdb": {}
+      },
+      "api": {
+        "ampreactgql": {}
       }
     }
   }
