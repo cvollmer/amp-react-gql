@@ -17,6 +17,9 @@
       },
       "api": {
         "ampreactgql": {}
+      },
+      "storage": {
+        "imagestorage": {}
       }
     }
   }
